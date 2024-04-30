@@ -24,11 +24,11 @@ To set up and run this project, ensure you have the following installed:
 
 ## API 
 
-POST /tasks - Create a new task.
-GET /tasks - Retrieve all tasks assigned to the logged-in user.
-GET /tasks/:id - Retrieve a specific task by ID.
-PUT /tasks/:id - Update a specific task by ID.
-DELETE /tasks/:id - Delete a specific task by ID.
+** POST /tasks - Create a new task.
+** GET /tasks - Retrieve all tasks assigned to the logged-in user.
+** GET /tasks/:id - Retrieve a specific task by ID.
+** PUT /tasks/:id - Update a specific task by ID.
+** DELETE /tasks/:id - Delete a specific task by ID.
 
 
 
